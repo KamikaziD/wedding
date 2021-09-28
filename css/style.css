@@ -640,7 +640,7 @@ figure {
 
 #fh5co-countdown .countdown {
   margin-bottom: 0;
-  font-size: 80px;
+  font-size: 60px;
   color: #fff;
 }
 
@@ -696,6 +696,23 @@ figure {
   background-repeat: no-repeat;
   position: relative;
   height: 400px;
+}
+.wedding-events .header-bg {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 400px;
+  margin-bottom: 35px;
+}
+
+.wedding-events .accommodation-bg {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 200px;
+  margin-bottom: 35px;
 }
 
 .wedding-events .desc {

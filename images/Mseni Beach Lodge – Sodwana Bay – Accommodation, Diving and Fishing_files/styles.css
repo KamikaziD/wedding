@@ -1,0 +1,119 @@
+#hc-ratingRatingHotel {
+	max-width: 160px !important;
+	min-width: 160px !important;
+	width: 160px !important;
+	margin: 20px auto !important;
+	color: black !important;
+	text-align: left !important;
+	letter-spacing: 2px !important;
+}
+
+#hc-ratingRatingHotel p {
+    margin-bottom: 0 !important;
+}
+
+.wf-active #hc-ratingRatingHotel,
+.wf-inactive #hc-ratingRatingHotel {
+	font-family: 'Open Sans', Arial !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__inner {
+	border: 1px solid #D0D0D0 !important;
+	border-bottom: none !important;
+	height: 129px !important;
+	padding: 8px 10px 0 !important;
+	background-color: white !important;
+	line-height: 13px !important;
+	box-sizing: content-box !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__ribbon {
+	float: left !important;
+	padding-right: 10px !important;
+	position: relative !important;
+	top: 3px !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__year {
+	font-size: 8px !important;
+	color: #00AEE7 !important;
+	display: block !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__award {
+	font-size: 9px !important;
+	color: #737373 !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__hotelink {
+	display: table-cell !important;
+	height: 67px !important;
+	vertical-align: middle !important;
+	width: 137px !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__hotelname {
+	width: 100% !important;
+	display: inline-block !important;
+	text-align: center !important;
+	color: #00AFE1 !important;
+	text-decoration: none !important;
+	font-size: 15px !important;
+	letter-spacing: 0 !important;
+	line-height: 15px !important;
+	font-weight: normal !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__hclink {
+	display: inline-block !important;
+	width: 100% !important;
+	text-align: center !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__hclink img {
+	border: none !important;
+	display: inline-block !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__rating {
+	background-color: #00AEE5 !important;
+	color: white !important;
+	padding: 0px 15px !important;
+	height: 40px !important;
+	line-height: 40px !important;
+	box-sizing: border-box !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__number {
+	font-size: 20px !important;
+	font-weight: bold !important;
+	display: inline !important;
+	width: 34px !important;
+	overflow: hidden !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__ratedby {
+	font-size: 10px !important;
+	width: 58px !important;
+	display: inline-block !important;
+	line-height: 10px !important;
+}
+
+#hc-ratingRatingHotel #hc-ratingRatingHotel__pipe {
+	border-left: 1px solid white !important;
+	height: 15px !important;
+	display: inline-block !important;
+	margin: 0 4px !important;
+}
+
+@media screen\0 {
+	#hc-ratingRatingHotel__award {
+		line-height: 1.5 !important;
+		display: block !important;
+		letter-spacing: 1px !important;
+	}
+}
+
+#hc-ratingRatingHotel img {
+	box-shadow: none !important;
+}
